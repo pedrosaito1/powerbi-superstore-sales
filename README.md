@@ -7,7 +7,7 @@ Projeto em PowerBI que mostra um dashboard com base em um dataset do Kaggle. Est
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-## 🎯 Sobre os insgths e resultados
+## 🎯 Sobre os insights e resultados
 
 
 * Total de vendas e contagem de vendas com comparação ao ano anterior.
@@ -31,6 +31,8 @@ Projeto em PowerBI que mostra um dashboard com base em um dataset do Kaggle. Est
 Projeto online: [Superstore Sales](https://app.powerbi.com/view?r=eyJrIjoiOWM5YWEyNDgtNzIzYi00ZjA4LTk0OGUtYmJjYmE1YTBmNWZmIiwidCI6ImUyOTI3YmMyLTg2MmMtNGRiZS1iMmZiLTk5Y2QzMGQ4Y2YyYiJ9)
 
 Projeto inicial usado: [Superstore sales - Kaggle](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
+
+Projeto no linkedin: [Link]()
 
 ## 📱 Contato:
 
